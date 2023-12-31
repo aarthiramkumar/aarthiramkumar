@@ -1,3 +1,4 @@
+![Masterhead Image](url_to_your_image)
 <h1 align="center">Hi 👋, I'm Aarthi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align ="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
