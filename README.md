@@ -5,7 +5,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarthiramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="aarthiramkumar" /> </p>
-- 🔭 I’m currently working on AI Powered Fraud Detection System for Online Transactions
+- 🔭 I’m currently working on Ai fraudulent dection system
+
 - 🌱 I’m currently learning **ReactV8, and Angular.js**
 
 - 💬 Ask me about **Al and ML generated models,
