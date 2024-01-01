@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Ai fraudulent dection system
 
 - 🌱 I’m currently learning **ReactV8, and Angular.js**
-
+  
 - 💬 Ask me about Al & ML models, & Jupyter notebook
 
 - 📫 How to reach me **aarthi06june@gmail.com**
