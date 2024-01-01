@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **ReactV8, and Angular.js**
 
-- 💬 Ask me about **Al and ML generated models,
-  and using Jupyter notebook for data visualisation**
+- 💬 Ask me about Al & ML models, & Jupyter notebook
 
 - 📫 How to reach me **aarthi06june@gmail.com**
 
